@@ -1,0 +1,76 @@
+div.r {
+    background-image: url(pic/pxfuel.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh; 
+  }
+  
+  table {
+    background-image: url(../src/pic/POS-114-NOFRAME_600x600.webp);
+    background-size: cover;
+    background-position: center;
+    border: 2px solid coral;
+    position: relative;
+    margin-top: 20px;
+}
+h1 {
+  text-align: center;
+  color: rgb(189, 162, 4);
+  text-shadow: 4px 4px 4px rgb(139, 121, 76);
+  text-decoration: dotted;
+  padding: 10px;
+  margin-bottom: 8.5rem; /* Adjust the margin to control the distance between the heading and table */
+}
+form.res {
+  
+  max-width: 400px;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background: #460101;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+label.reslab {
+  color: #400505;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+/* Set a fixed width for buttons */
+button {
+  width: 50%;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+
+}
+
+/* Style for submit button */
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+/* Style for reset button */
+button[type="reset"] {
+  background-color: #f44336;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+
