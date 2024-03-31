@@ -40,8 +40,8 @@ const LoginComponent=()=> {
             </div>
             <button type="submit" className="sign">Sign in</button>
             <br />
-            <Link to="/forgetpass" className="c" target="_blank">Forget Password</Link>
-            <Link to="/register" className="d" target="_blank">Sign up</Link>
+            <Link to="/forgetpass" className="c" >Forget Password</Link>
+            <Link to="/register" className="d" >Sign up</Link>
           </form>
         </div>
       </div>
