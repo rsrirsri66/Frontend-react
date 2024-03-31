@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.648d8801.css",
+    "main.js": "/static/js/main.a5d6f208.js",
+    "static/js/787.b138b0db.chunk.js": "/static/js/787.b138b0db.chunk.js",
+    "static/media/pxfuel.jpg": "/static/media/pxfuel.8af37bf7cc3a6cc37aed.jpg",
+    "static/media/3658600.jpg": "/static/media/3658600.b76b62ad79d6fec5e02e.jpg",
+    "static/media/download.jpg": "/static/media/download.9c75e62c9bd7f05e2c53.jpg",
+    "static/media/vikram.jpg": "/static/media/vikram.3bc874dc7a2f12d08436.jpg",
+    "static/media/movie-ticketing-1024x768-photoutils.com_.jpg": "/static/media/movie-ticketing-1024x768-photoutils.com_.35de64dbe94a5f7b1c3b.jpg",
+    "static/media/9041036.jpg": "/static/media/9041036.a9c3ab65449ada3ed23b.jpg",
+    "static/media/POS-114-NOFRAME_600x600.webp": "/static/media/POS-114-NOFRAME_600x600.deb0a79df86e1719f70f.webp",
+    "static/media/abstract-circular-red-background_8466-2.avif": "/static/media/abstract-circular-red-background_8466-2.8ae19fdbd06064c14dbe.avif",
+    "index.html": "/index.html",
+    "main.648d8801.css.map": "/static/css/main.648d8801.css.map",
+    "main.a5d6f208.js.map": "/static/js/main.a5d6f208.js.map",
+    "787.b138b0db.chunk.js.map": "/static/js/787.b138b0db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648d8801.css",
+    "static/js/main.a5d6f208.js"
+  ]
+}

@@ -13,13 +13,13 @@ const MovieBooking = () => {
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width,initial-scale=1" />
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" />
-      <link rel="stylesheet" href="style.css" />
+      {/* <link rel="stylesheet" href="style.css" /> */}
       <center><h3 style={{ color: 'rgb(201, 131, 1)' }}><b>MOVIES</b></h3></center>
       <div className="tabular" style={{ color: 'rgb(201, 131, 1)' }}>
         <ul>
           <Link to="/login" style={{ color: 'rgb(201, 131, 1)' }}><li>Home</li></Link>
           <a href=" " style={{ color: 'rgb(201, 131, 1)' }}><li>About us</li></a>
-          <a href="snack.html" style={{ color: 'rgb(201, 131, 1)' }} target="_blank"><li>Food &amp; Beverage</li></a>
+          <Link to="/snack" style={{ color: 'rgb(201, 131, 1)' }} ><li>Food &amp; Beverage</li></Link>
           <Link to="/register" style={{ color: 'rgb(201, 131, 1)' }}><li>Signup</li></Link>
         </ul>
       </div>

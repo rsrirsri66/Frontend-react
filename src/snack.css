@@ -1,0 +1,15 @@
+.snack{
+    background-image: url(pic/abstract-circular-red-background_8466-2.avif);
+    background-color: #4d0404;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    align-items: center;
+    
+    flex-direction: column;
+    height: 100vh; 
+   
+    
+   
+    
+}

@@ -4,6 +4,7 @@ import LoginComponent from './Login';
 import Register from './Register';
 import ResetPassword from './ResetPassword';
 import MovieBooking from './MovieBooking';
+import Snack from './snacks';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/forgetpass" element={<ResetPassword/>} />
         <Route path="/movie" element={<MovieBooking />} />
+        <Route path="/snack" element={<Snack />}/>
 
         </Routes>
     </Router>
